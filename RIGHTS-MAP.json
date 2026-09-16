@@ -1,0 +1,32 @@
+{
+  "scope": "Only listed files and specified material; no repository-wide license",
+  "rights_holder": "Andrew Fai and identified contributors, to the extent rights held",
+  "notice": "RIGHTS.md",
+  "files": [
+    {
+      "path": "profile/README.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "profile/assets/ua-plural-trajectories-v1.png",
+      "license": "LicenseRef-UA-Identity-Reserved",
+      "scope": "Only rights held; see ASSET-NOTICE.md."
+    },
+    {
+      "path": "RIGHTS.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "RIGHTS-MAP.json",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "ASSET-NOTICE.md",
+      "license": "CC-BY-SA-4.0",
+      "scope": "Original project material only; third-party and separately identified material excluded."
+    }
+  ]
+}
