@@ -27,6 +27,11 @@
       "path": "ASSET-NOTICE.md",
       "license": "CC-BY-SA-4.0",
       "scope": "Original project material only; third-party and separately identified material excluded."
+    },
+    {
+      "path": "profile/assets/ua-open-paths-v1.png",
+      "license": "LicenseRef-UA-Identity-Reserved",
+      "scope": "Only rights held; see ASSET-NOTICE.md."
     }
   ]
 }

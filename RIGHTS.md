@@ -12,4 +12,4 @@ Third-party material, marks, separately identified quotations and linked source 
 
 ## Designated profile material
 
-The original text and explanatory material in `profile/README.md`, `RIGHTS.md`, `RIGHTS-MAP.json` and `ASSET-NOTICE.md` are CC BY-SA 4.0. The profile image is excluded; see [ASSET-NOTICE.md](ASSET-NOTICE.md). The exact file classification is in [RIGHTS-MAP.json](RIGHTS-MAP.json).
+The original text and explanatory material in `profile/README.md`, `RIGHTS.md`, `RIGHTS-MAP.json` and `ASSET-NOTICE.md` are CC BY-SA 4.0. The profile images are excluded; see [ASSET-NOTICE.md](ASSET-NOTICE.md). The exact file classification is in [RIGHTS-MAP.json](RIGHTS-MAP.json).
