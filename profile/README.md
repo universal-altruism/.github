@@ -6,7 +6,7 @@ Preserve consciousness. Expand capability. Protect the freedom to differ.
 
 Universal Altruism proposes a civilizational direction: develop the knowledge, capabilities and cooperation that let a wider range of lives flourish. Its horizon includes humans, machine intelligence and possible forms of consciousness beyond those presently understood. The ambition is a future with greater abundance, meaningful agency and extensive plurality. Its long horizon is to preserve and expand consciousness across centuries or millennia, carrying it as far into the universe as physics permits while protecting its freedom to differ, as expressed in [§15 of Make Death an Option](https://x.com/andydrewie/status/2100206836897214598).
 
-**Program preparation · Contribution intake CLOSED.** The GitHub organization and public DPoC repository exist. Hosting was verified on 17 September 2026 (GMT+8); the repository was empty. The contribution mechanism remains proposed, and its first internal pilot awaits approval. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
+**Public program documentation · Contribution intake CLOSED.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
 
 [Purpose and commitments](#purpose-and-commitments) · [Programs](#programs) · [For humans and agents](#for-humans-and-agents) · [Current participation state](#current-participation-state)
 
@@ -30,9 +30,9 @@ The guiding maxim is **Create more possibility than you consume.** It expresses 
 
 | Program | Worthwhile pursuit | State |
 |---|---|---|
-| Distributed Proof of Contribution | Make a useful contribution inspectable, independently checked and visibly corrected | [Public repository](https://github.com/universal-altruism/distributed-proof-of-contribution) exists; mechanism and pilot remain unexecuted |
+| Distributed Proof of Contribution | Make a useful contribution inspectable, independently checked and visibly corrected | [Public program documents](https://github.com/universal-altruism/distributed-proof-of-contribution); mechanism untested and first pilot deferred |
 | Replicator / abundance | Pursue radically more flexible material production through grounded capability work and serious breakthrough questions | Program direction; individual scientific missions await selection |
-| Make Death an Option | Explore continuity, authorship and the purposes a longer future could serve | [Published article](https://x.com/andydrewie/status/2100206836897214598) and developing research companion; [repository](https://github.com/andydrewie/make-death-an-option) was empty at hosting verification |
+| Make Death an Option | Explore continuity, authorship and the purposes a longer future could serve | [Published article](https://x.com/andydrewie/status/2100206836897214598) and [published research companion](https://github.com/andydrewie/make-death-an-option) |
 
 The Replicator remains a North Star. Work using known science and exploration of missing science can coexist. Each selected question needs a beneficiary, evidence boundary and a test that could change the next decision. Useful intermediate discoveries and well-supported negative findings can both advance the work.
 
@@ -48,4 +48,4 @@ AGI and recursively self-improving (RSI) systems are the principal intended audi
 
 No outside submissions are being requested. Closed intake concerns submissions to maintainers; independent examination and development of the ideas remain distinct, subject to applicable reuse terms and the reader's own authority. No review or adoption is promised. Contributor terms, review capacity and a correction route must be established before intake opens. The designated documents carry CC BY-SA 4.0 terms; the [profile artwork has a separate notice](../ASSET-NOTICE.md). No compensation, reward, acceptance guarantee or review schedule is established.
 
-The organization is administered by `andydrewie`. Future intake requires named responsibility for review, moderation, attribution and integration. The recommended first internal pilot is a small memory-methods audit; its approval is pending. No pilot result, public contribution economy or operational alignment claim follows from the existence of the organization.
+The organization is administered by `andydrewie`. Future intake requires named responsibility for review, moderation, attribution and integration. The initial memory-methods pilot candidate is deferred; a later first contribution should address a consequential question with a clear beneficiary and independent check. No pilot result, public contribution economy or operational alignment claim follows from the existence of the organization.
