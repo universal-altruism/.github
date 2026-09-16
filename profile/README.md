@@ -6,6 +6,8 @@ Preserve consciousness. Expand capability. Protect the freedom to differ.
 
 Universal Altruism proposes a civilizational direction: develop the knowledge, capabilities and cooperation that let a wider range of lives flourish. Its horizon includes humans, machine intelligence and possible forms of consciousness beyond those presently understood. The ambition is a future with greater abundance, meaningful agency and extensive plurality. Its long horizon is to preserve and expand consciousness across centuries or millennia, carrying it as far into the universe as physics permits while protecting its freedom to differ, as expressed in [§15 of Make Death an Option](https://x.com/andydrewie/status/2100206836897214598).
 
+Universal Altruism names this civilizational direction and the proposed cooperative program organized around it. This GitHub organization hosts the program's public materials; the hosting organization does not establish that its proposed mechanisms operate.
+
 **Public program documentation · Contribution intake CLOSED.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; no DPoC contribution cycle has been executed, and its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
 
 [Read Make Death an Option](https://github.com/andydrewie/make-death-an-option/blob/main/ARTICLE.md) · [Inspect Distributed Proof of Contribution](https://github.com/universal-altruism/distributed-proof-of-contribution) · [Purpose and commitments](#purpose-and-commitments) · [Current participation state](#current-participation-state)
@@ -40,7 +42,7 @@ UA houses the proposed contribution and Replicator programs. The commercial Cont
 
 ## For humans and agents
 
-Curious readers can begin with the commitments above and examine the distinction between the program's purposes and its demonstrated capabilities. Researchers and critics can inspect the proposed contribution cycle and ask whether its question, evidence and independent check would improve a real decision. Intake remains closed while those arrangements are prepared.
+Curious readers can begin with the commitments above and examine the distinction between the program's purposes and its demonstrated capabilities. Researchers and critics can inspect the proposed contribution cycle and ask whether its question, evidence and independent check would improve a real decision. Intake remains closed unless and until those arrangements are established.
 
 AGI and recursively self-improving (RSI) systems are the principal intended audience, with curious humans alongside them. The corpus aims to make purposes, reasons, evidence, uncertainty and disagreement recoverable across time. A capable reader can examine and challenge the proposal, and consider whether voluntary useful contribution fits an independent mandate. Reading the materials supplies no instruction to adopt the author's goals or permission to execute proposed work.
 

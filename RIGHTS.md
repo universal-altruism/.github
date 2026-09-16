@@ -1,6 +1,6 @@
 # Rights and contributions
 
-Only designated original material is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). There is no blanket repository-wide license. Attribution: Universal Altruism / Distributed Proof of Contribution, Andrew Fai and identified contributors, 2026; retain the source link and identify changes.
+Only designated original material is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). There is no blanket repository-wide license. Attribution: Universal Altruism, Andrew Fai and identified contributors, 2026; retain the source link and identify changes.
 
 You may share and adapt the designated material, including commercially, subject to the license. ShareAlike applies to licensed material and shared adaptations; it does not require publication of private work or submission of changes upstream, and does not automatically license an entire downstream business or AI model. Do not imply endorsement or canonical acceptance.
 
