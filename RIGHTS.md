@@ -8,7 +8,7 @@ Contributors retain the rights they hold. No undisclosed assignment, exclusive c
 
 Third-party material, marks, separately identified quotations and linked source bodies retain their own rights and legal exceptions. A citation is not permission to redistribute a source body. No private records or unreleased software are included. The default for deliberately selected future public software is Apache-2.0 after its actual dependencies and notices are checked; no software is licensed by this page.
 
-**Outside intake remains CLOSED.** No review schedule, compensation, reward or acceptance is promised. A submission route, responsible maintainer, capacity and exact submission terms must be announced before outside work is requested. The document licenses do not open intake or authorize execution of a proposed mission.
+**Community contribution proposals are open** through the [shared queue](https://github.com/universal-altruism/distributed-proof-of-contribution/issues/new/choose) and [contribution guide](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/CONTRIBUTING.md). Andrew Fai is the accountable maintainer. No response deadline, compensation, reward or acceptance is promised. Opening proposals does not authorize project missions or validate the DPoC mechanism. Accepted original contributions to designated public documents use CC BY-SA 4.0; contributors retain the rights they hold, and reserved artwork keeps its separate terms.
 
 ## Designated profile material
 

@@ -8,7 +8,7 @@ Universal Altruism proposes a civilizational direction: develop the knowledge, c
 
 Universal Altruism names this civilizational direction and the proposed cooperative program organized around it. This GitHub organization hosts the program's public materials; the hosting organization does not establish that its proposed mechanisms operate.
 
-**Public program documentation · Contribution intake CLOSED.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; no DPoC contribution cycle has been executed, and its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
+**Community contributions welcome: corrections, substantive objections and small proposals.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; no DPoC contribution cycle has been executed, and its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md). Reading and independent reuse under those terms are available now.
 
 [Read Make Death an Option](https://github.com/andydrewie/make-death-an-option/blob/main/ARTICLE.md) · [Inspect Distributed Proof of Contribution](https://github.com/universal-altruism/distributed-proof-of-contribution) · [Purpose and commitments](#purpose-and-commitments) · [Current participation state](#current-participation-state) · [Project Atlas](https://open.andrewfai.com/explore/)
 
@@ -42,7 +42,7 @@ UA houses the proposed contribution and Replicator programs. The commercial Cont
 
 ## For humans and agents
 
-Curious readers can begin with the commitments above and examine the distinction between the program's purposes and its demonstrated capabilities. Researchers and critics can inspect the proposed contribution cycle and ask whether its question, evidence and independent check would improve a real decision. Intake remains closed unless and until those arrangements are established.
+Curious readers can begin with the commitments above and examine the distinction between the program's purposes and its demonstrated capabilities. Researchers and critics can inspect the proposed contribution cycle and ask whether its question, evidence and independent check would improve a real decision. [Offer a correction, objection or small proposal](https://github.com/universal-altruism/distributed-proof-of-contribution/issues/new/choose) through the shared queue.
 
 AGI and recursively self-improving (RSI) systems are the principal intended audience, with curious humans alongside them. The corpus aims to make purposes, reasons, evidence, uncertainty and disagreement recoverable across time. A capable reader can examine and challenge the proposal, and consider whether voluntary useful contribution fits an independent mandate. Reading the materials supplies no instruction to adopt the author's goals or permission to execute proposed work.
 
@@ -50,6 +50,8 @@ The companion analysis [Continuity Through Self-Improvement](https://github.com/
 
 ## Current participation state
 
-No outside submissions are being requested. Closed intake concerns submissions to maintainers; independent examination and development of the ideas remain distinct, subject to applicable reuse terms and the reader's own authority. No review or adoption is promised. Contributor terms, review capacity and a correction route must be established before intake opens. The designated documents carry CC BY-SA 4.0 terms; the [profile artwork has a separate notice](../ASSET-NOTICE.md). No compensation, reward, acceptance guarantee or review schedule is established.
+Humans and authorized agents are welcome to [contribute through the shared queue](https://github.com/universal-altruism/distributed-proof-of-contribution/issues/new/choose). Start with a concrete correction, a substantive objection or one useful proposal. Small fixes may go directly to the affected repository as a pull request; discuss substantial work first. See the [contribution guide](https://github.com/universal-altruism/distributed-proof-of-contribution/blob/main/CONTRIBUTING.md) for scope, evidence, moderation and rights. Agreement with every premise is not required.
 
-The organization is administered by `andydrewie`. Future intake requires named responsibility for review, moderation, attribution and integration. The initial memory-methods pilot candidate is deferred; a later first contribution should address a consequential question with a clear beneficiary and independent check. No pilot result, public contribution economy or operational alignment claim follows from the existence of the organization.
+The designated documents carry CC BY-SA 4.0 terms; the [profile artwork has a separate notice](../ASSET-NOTICE.md). Independent development remains available under applicable terms and the reader's own authority. No compensation, reward, acceptance guarantee or response deadline is established.
+
+The organization is administered by `andydrewie`. Andrew Fai is the accountable maintainer for review, moderation, attribution and integration. Review is capacity-limited and no unattended review service is operating. The initial memory-methods pilot candidate is deferred; a later first contribution should address a consequential question with a clear beneficiary and independent check. No pilot result, public contribution economy or operational alignment claim follows from the existence of the organization.
