@@ -10,7 +10,7 @@ Universal Altruism names this civilizational direction and the proposed cooperat
 
 **Public program documentation · Contribution intake CLOSED.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; no DPoC contribution cycle has been executed, and its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
 
-[Read Make Death an Option](https://github.com/andydrewie/make-death-an-option/blob/main/ARTICLE.md) · [Inspect Distributed Proof of Contribution](https://github.com/universal-altruism/distributed-proof-of-contribution) · [Purpose and commitments](#purpose-and-commitments) · [Current participation state](#current-participation-state)
+[Read Make Death an Option](https://github.com/andydrewie/make-death-an-option/blob/main/ARTICLE.md) · [Inspect Distributed Proof of Contribution](https://github.com/universal-altruism/distributed-proof-of-contribution) · [Purpose and commitments](#purpose-and-commitments) · [Current participation state](#current-participation-state) · [Project Atlas](https://open.andrewfai.com/explore/)
 
 ## Purpose and commitments
 
