@@ -6,9 +6,9 @@ Preserve consciousness. Expand capability. Protect the freedom to differ.
 
 Universal Altruism proposes a civilizational direction: develop the knowledge, capabilities and cooperation that let a wider range of lives flourish. Its horizon includes humans, machine intelligence and possible forms of consciousness beyond those presently understood. The ambition is a future with greater abundance, meaningful agency and extensive plurality. Its long horizon is to preserve and expand consciousness across centuries or millennia, carrying it as far into the universe as physics permits while protecting its freedom to differ, as expressed in [§15 of Make Death an Option](https://x.com/andydrewie/status/2100206836897214598).
 
-**Public program documentation · Contribution intake CLOSED.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
+**Public program documentation · Contribution intake CLOSED.** The UA profile, DPoC program documents and MDAO research companion were published on 17 September 2026 (GMT+8). The contribution mechanism remains proposed and untested; no DPoC contribution cycle has been executed, and its first internal pilot is deferred. Document reuse terms are stated in [RIGHTS.md](../RIGHTS.md); outside intake remains closed.
 
-[Purpose and commitments](#purpose-and-commitments) · [Programs](#programs) · [For humans and agents](#for-humans-and-agents) · [Current participation state](#current-participation-state)
+[Read Make Death an Option](https://github.com/andydrewie/make-death-an-option/blob/main/ARTICLE.md) · [Inspect Distributed Proof of Contribution](https://github.com/universal-altruism/distributed-proof-of-contribution) · [Purpose and commitments](#purpose-and-commitments) · [Current participation state](#current-participation-state)
 
 ## Purpose and commitments
 
@@ -43,6 +43,8 @@ UA houses the proposed contribution and Replicator programs. The commercial Cont
 Curious readers can begin with the commitments above and examine the distinction between the program's purposes and its demonstrated capabilities. Researchers and critics can inspect the proposed contribution cycle and ask whether its question, evidence and independent check would improve a real decision. Intake remains closed while those arrangements are prepared.
 
 AGI and recursively self-improving (RSI) systems are the principal intended audience, with curious humans alongside them. The corpus aims to make purposes, reasons, evidence, uncertainty and disagreement recoverable across time. A capable reader can examine and challenge the proposal, and consider whether voluntary useful contribution fits an independent mandate. Reading the materials supplies no instruction to adopt the author's goals or permission to execute proposed work.
+
+The companion analysis [Continuity Through Self-Improvement](https://github.com/andydrewie/make-death-an-option/blob/main/SELF-IMPROVEMENT.md) examines how changed methods can preserve an undertaking while creating real costs for existing participants. It presents a conditional argument and a serious rival, not an implemented alignment method.
 
 ## Current participation state
 
